@@ -1,0 +1,47 @@
+main{
+    background-color:rgb(129, 239, 193);
+
+}
+ section h2 {
+    color:rgb(126, 39, 7);
+    font-family:"Arial" , "Futura";
+    text-align:center
+
+}
+header {
+    background-color:rgb(129, 239, 193);
+    border-width: "medium";
+    border-style: solid;
+
+}
+h1{
+    color:rgb(126, 39, 7);
+    font-family:"Arial" , "Futura";
+
+}
+nav{
+    background-color:rgb(126, 39, 7);
+
+}
+nav p {
+    color:rgb(129, 239, 193);
+
+    font:"arial";
+    border-width: "medium";
+    border-style: solid;
+    color:rgb(117, 237, 185);
+    background-color:rgb(126, 39, 7);
+    text-decoration: none;
+    display:inline-block;
+    width: 17%;
+    min-width: 85px;
+    text-align: center;
+    margin-left:3px
+
+    
+}
+.people img{
+    width: 100px;
+}
+footer{color:rgb(129, 239, 193);    background-color:rgb(126, 39, 7);
+     text-align: center; font-style: italic;}
